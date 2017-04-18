@@ -16,6 +16,7 @@
 # To Code
 - svg
 - canvas
+- game with js
 - chrome 扩展
 	- [Chrome 扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 	- [如何从零开始写一个 Chrome 扩展？](https://www.zhihu.com/question/20179805)
@@ -24,7 +25,7 @@
 # To Buy
 
   - Mac
-  - Shadowsocks / VPN  (finish)
+  - VPN  (finish)
 
 # To Do
 
